@@ -12,7 +12,7 @@ variables:
   azureSubscription: '754fc0f1-b98e-4e59-8a51-874f5ef9cb45'
   
   # Web app name
-  webAppName: 'pheonixice'
+  webAppName: 'sampleproject'
   
   # Environment name
   environmentName: 'node'
