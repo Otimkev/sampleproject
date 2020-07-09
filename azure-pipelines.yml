@@ -15,7 +15,7 @@ variables:
   webAppName: 'pheonixsolid'
   
   # Environment name
-  environmentName: ''
+  environmentName: 'node'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
